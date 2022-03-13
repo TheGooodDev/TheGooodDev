@@ -13,4 +13,8 @@
 19 years old French developper <br>
 In second year of computer science
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://feliciencourdesse.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/félicien-courdesse-753883203/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGooodDev&show_icons=true&theme=synthwave)
