@@ -10,8 +10,8 @@
 
 # About Me
 
-19 years old French developper <br>
-In second year of computer science
+21 years old French developper <br>
+In fourth year of computer science
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://feliciencourdesse.com/)
