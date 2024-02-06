@@ -11,7 +11,7 @@
 # About Me
 
 21 years old French developper <br>
-In fourth year of computer science specializing in Data Science."
+In fourth year of computer science specializing in Data Science.
 
 
 
