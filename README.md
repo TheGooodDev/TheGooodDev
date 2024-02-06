@@ -11,7 +11,12 @@
 # About Me
 
 21 years old French developper <br>
-In fourth year of computer science
+In fourth year of computer science specializing in Data Science."
+
+
+
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://feliciencourdesse.com/)
