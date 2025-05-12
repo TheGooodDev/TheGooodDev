@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&color=239120)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&color=777BB4)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=3776AB)
-![](https://img.shields.io/badge/R-informational?style=flat&logo=r&color=276DC3)
 
 <!-- Data Science Tools -->
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&color=150458)
