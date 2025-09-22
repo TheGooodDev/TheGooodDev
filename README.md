@@ -25,7 +25,7 @@
 # About Me
 
 22 years old French developer  
-In fifth year of computer science, specializing in **Data Science**.
+graduated of a computer science master degree, specializing in **Data Science**.
 
 
 
